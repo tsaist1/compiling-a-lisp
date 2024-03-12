@@ -1,3 +1,3 @@
 References:
-*- https://bernsteinbear.com/blog/compiling-a-lisp-1/
+- https://bernsteinbear.com/blog/compiling-a-lisp-1/
 - 
